@@ -12,6 +12,8 @@ Recognized for expertise in VMware architecture, enterprise storage platforms, s
 
 Strong background supporting federal government and enterprise organizations through large-scale modernization initiatives involving virtualization, cloud adoption, Zero Trust architecture, micro-segmentation, operational automation, disaster recovery, and enterprise security compliance.
 
+Actively expanding expertise in VMware Avi Load Balancer and VMware vDefend security solutions to support modern application delivery and Zero Trust architectures.
+
 ---
 
 ## TECHNICAL SKILLS
