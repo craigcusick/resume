@@ -1,6 +1,6 @@
 # Elton "Craig" Cusick
 
-## VMware Cloud Foundation Architect | NSX | VCF | vSAN | Aria | Enterprise Infrastructure
+## VMware Cloud Foundation Architect | NSX | VCF | vSAN | Enterprise Infrastructure
 
 ---
 
@@ -14,9 +14,9 @@ Strong background supporting federal government and enterprise organizations thr
 
 ---
 
-# TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
-## VMware Cloud Foundation
+### VMware Cloud Foundation
 
 - VMware Cloud Foundation (VCF) 4.x, 5.x, 9.x
 - VMware vCenter Server 6.x, 7.x, 8.x, 9.x
@@ -30,7 +30,7 @@ Strong background supporting federal government and enterprise organizations thr
 - Aria Automation
 - Aria Lifecycle Manager
 
-## Virtualization & Storage
+### Virtualization & Storage
 
 - VMware ESXi
 - VMware vSAN ESA
@@ -43,7 +43,7 @@ Strong background supporting federal government and enterprise organizations thr
 - Datastore Clusters
 - Storage DRS
 
-## Networking & Security
+### Networking & Security
 
 - VMware NSX-T
 - NSX Segment Design
@@ -57,7 +57,7 @@ Strong background supporting federal government and enterprise organizations thr
 - LAN / WAN Architecture
 - IPv6
 
-## Automation
+### Automation
 
 - PowerShell
 - JSON
@@ -66,14 +66,14 @@ Strong background supporting federal government and enterprise organizations thr
 - Aria Automation
 - Aria Orchestrator
 
-## Cloud
+### Cloud
 
 - AWS
 - Hybrid Cloud
 - Private Cloud
 - Multi-Cloud Strategy
 
-## Security & Compliance
+### Security & Compliance
 
 - NIST 800-53
 - FISMA
@@ -85,34 +85,32 @@ Strong background supporting federal government and enterprise organizations thr
 
 ---
 
-# CERTIFICATIONS
+## CERTIFICATIONS
 
-# CERTIFICATIONS
+### Current Certifications
 
-- VMware Certified Professional – VMware Cloud Foundation Architect (VCP-VCF Architect) | 2026
-- VMware Certified Professional – VMware Cloud Foundation Administrator (VCP-VCF Administrator) | 2025
-- AWS Certified Cloud Practitioner
+- VMware Certified Professional – VMware Cloud Foundation Architect (2026)
+- VMware Certified Professional – VMware Cloud Foundation Administrator (2025)
+- AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
 - ISC2 Certified in Cybersecurity (CC)
-- VMware Certified Professional – Network Virtualization (VCP-NV) | 2022, 2023 (Expired)
+
+### Previous VMware Certifications
+
+- VMware Certified Professional – Network Virtualization (VCP-NV) | 2022, 2023
 - VMware Certified Professional – Data Center Virtualization (VCP-DCV) | 2020
-- CCNA
-- Security+
-- Network+
-- A+
-- MCSE
-- MCSA
-`
 
 ---
 
-# PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-## ClearBridge Technology Group supporting VMware by Broadcom
-### Architect / Senior Consultant | Oct 2025 – Present
+### ClearBridge Technology Group supporting VMware by Broadcom
+
+**Architect / Senior Consultant | Oct 2025 – Present**
 
 - Design, deploy, and modernize VMware Cloud Foundation environments for enterprise customers with a focus on VCF architecture, NSX networking, vSAN, resiliency, operations, and infrastructure modernization.
 
 ### National Grid
+
 **VCF Architect / Delivery Consultant | Oct 2025 – Feb 2026**
 
 - Led architecture workshops and technical design sessions for a VMware Cloud Foundation 9.0 deployment supporting Operational Technology (OT) environments.
@@ -133,7 +131,7 @@ Strong background supporting federal government and enterprise organizations thr
 
 ### Emblem Health
 
-**VCF Architect | Apr 2026 - Sept 2026**
+**VCF Architect | Apr 2026 - Sep 2026**
 
 - Performed architectural review and assessment of an existing VMware Cloud Foundation 5 deployment.
 - Provided VMware best-practice guidance and recommendations for platform modernization and lifecycle management.
@@ -141,13 +139,9 @@ Strong background supporting federal government and enterprise organizations thr
 - Reviewed design decisions involving NSX, vSAN, management domains, workload domains, and operational services.
 - Advised customer stakeholders on roadmap planning, resiliency, security, and future-state cloud architecture.
 
-### Archer, Danials, Midland
+### Archer-Danials-Midland
 
-**VCF Operations Consultant | Jul 2026 - Sept 2026
-
-### Archer Daniels Midland (ADM)
-
-**VCF Operations Architect | 2026**
+**VCF Operations Consultant | Jul 2026 - Sep 2026
 
 - Designed custom VCF Operations dashboards and reports focused on capacity management, infrastructure efficiency, lifecycle readiness, and operational risk visibility.
 - Authored customer-facing operational documentation and dashboard reference guides to support platform operations teams.
@@ -157,8 +151,7 @@ Strong background supporting federal government and enterprise organizations thr
 ---
 
 ## Internal Revenue Service (IRS)
-### Enterprise Infrastructure Architect / Consultant
-**Nov 2023 – Mar 2025**
+### Enterprise Architect | Nov 2023 – Mar 2025
 
 - Served as senior technical advisor to executive leadership within Enterprise Virtualization Branch.
 - Led enterprise initiatives supporting infrastructure modernization, managed service transitions, compliance, and operational governance.
@@ -168,8 +161,7 @@ Strong background supporting federal government and enterprise organizations thr
 - Championed NSX adoption for Zero Trust initiatives, application micro-segmentation, and server isolation.
 - Conducted architecture reviews, health assessments, and security hardening activities aligned with NIST, FISMA, CISA, STIG, and MITRE ATT&CK frameworks.
 
-### Systems Engineer / Architect
-**Jan 2018 – Nov 2023**
+### Virtualization Engineer | Jan 2018 – Nov 2023
 
 - Designed and deployed VMware Cloud Foundation environments on Dell VxRail and HPE infrastructure.
 - Managed and supported more than 500 vSAN nodes across lab and production environments.
@@ -179,18 +171,18 @@ Strong background supporting federal government and enterprise organizations thr
 - Led enterprise certificate modernization and PKI integration efforts across SDDC Manager, vCenter, ESXi, and NSX.
 - Developed RBAC and Identity & Access Management standards for enterprise virtualization platforms.
 
-### Information Technology Specialist
-**Jul 2012 – Jan 2018**
+### Windows System Admminstrator | Jul 2012 – Jan 2018
 
 - Deployed and supported over 600 Windows Server and Microsoft SQL systems hosted on VMware infrastructure.
 - Managed Active Directory, Group Policy, PowerShell automation, and SQL administration activities.
 - Utilized vCenter and VMware operational tools to support enterprise virtualization services.
+- MCSE 2003 Certified, MCSA 2008 Certified
 
 ---
 
-# EDUCATION
+## EDUCATION
 
-## Augsburg College
+### Augsburg College
 
 **B.A. Management Information Systems & Business Administration**  
 **2003**

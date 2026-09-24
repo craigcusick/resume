@@ -1,6 +1,6 @@
 # Merck
 
-**Senior Consultant | Feb 2026 – Present**
+## Senior Consultant | Feb 2026 – Present
 
 - Provide architectural guidance and design review support for a multi-datacenter VMware Cloud Foundation 9 deployment.
 - Participate in planning, design, and governance discussions supporting management domain, NSX, vSAN, and disaster recovery initiatives.

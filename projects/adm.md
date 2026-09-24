@@ -1,6 +1,6 @@
 # Archer Daniels Midland (ADM)
 
-**VCF Operations Architect | 2026**
+## VCF Operations Architect | 2026
 
 - Designed custom VCF Operations dashboards and reports focused on capacity management, infrastructure efficiency, lifecycle readiness, and operational risk visibility.
 - Authored customer-facing operational documentation and dashboard reference guides to support platform operations teams.
