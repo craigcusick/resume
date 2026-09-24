@@ -30,6 +30,14 @@ Strong background supporting federal government and enterprise organizations thr
 - Aria Automation
 - Aria Lifecycle Manager
 
+| VMware Cloud Foundation | Virtualization & Storage |
+|-------------------------|--------------------------|
+| VCF 4.x, 5.x, 9.x | VMware ESXi |
+| vCenter/ESXi 6.x-9.x | vSAN ESA, OSA |
+| SDDC Manager | Dell VxRail |
+| Live Site Recovery | HPE Infrastructure |
+| Aria/VCF Operations | FCSan, NFS, iSCSI |
+
 ### Virtualization & Storage
 
 - VMware ESXi
