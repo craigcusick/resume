@@ -17,79 +17,49 @@ Strong background supporting federal government and enterprise organizations thr
 ## TECHNICAL SKILLS
 
 ### VMware Cloud Foundation
-
-- VMware Cloud Foundation (VCF) 4.x, 5.x, 9.x
-- VMware vCenter Server 6.x, 7.x, 8.x, 9.x
-- SDDC Manager
-- VMware Cloud Builder
+- VCF 4.x, 5.x, 9.x
+- vCenter, SDDC Manager, Cloud Builder
 - VMware Live Site Recovery
-- VMware Aria Suite
-- Aria Operations
-- Aria Operations for Logs
-- Aria Operations for Networks
-- Aria Automation
-- Aria Lifecycle Manager
+- Aria Operations, Logs, Networks, Automation
 
-| VMware Cloud Foundation | Virtualization & Storage |
-|-------------------------|--------------------------|
-| VCF 4.x, 5.x, 9.x | VMware ESXi |
-| vCenter/ESXi 6.x-9.x | vSAN ESA, OSA |
-| SDDC Manager | Dell VxRail |
-| Live Site Recovery | HPE Infrastructure |
-| Aria/VCF Operations | FCSan, NFS, iSCSI |
+### Architecture & Infrastructure
+- Enterprise Architecture
+- Private Cloud Strategy
+- Multi-Site Design
+- VPC, CTGW & DTGW Design
+- Disaster Recovery
+- Infrastructure Modernization
 
-### Virtualization & Storage
-
-- VMware ESXi
-- VMware vSAN ESA
-- VMware vSAN OSA
-- Dell VxRail
-- HPE Infrastructure
-- Fibre Channel Storage
-- NFS
-- iSCSI
-- Datastore Clusters
-- Storage DRS
 
 ### Networking & Security
-
 - VMware NSX-T
-- NSX Segment Design
-- NSX Tier-0 / Tier-1 Design
+- Tier-0 / Tier-1 Design
 - VRF Architectures
-- Network Micro-Segmentation
+- Micro-Segmentation
 - Zero Trust Architecture
 - Distributed Firewall
-- Network Virtualization
-- Cisco Switching
-- LAN / WAN Architecture
 - IPv6
 
-### Automation
-
+### Automation & Operations
 - PowerShell
-- JSON
-- REST APIs
 - Ansible
+- REST APIs
 - Aria Automation
 - Aria Orchestrator
 
-### Cloud
+### Governance & Compliance
+- NIST 800-53
+- FISMA
+- STIG
+- MITRE ATT&CK
+- Security Hardening
+- Identity & Access Management
 
+### Cloud
 - AWS
 - Hybrid Cloud
 - Private Cloud
 - Multi-Cloud Strategy
-
-### Security & Compliance
-
-- NIST 800-53
-- FISMA
-- STIG
-- CISA Guidance
-- MITRE ATT&CK
-- Security Hardening
-- Identity & Access Management
 
 ---
 
