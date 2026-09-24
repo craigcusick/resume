@@ -105,9 +105,38 @@ Strong background supporting federal government and enterprise organizations thr
 
 ### ClearBridge Technology Group supporting VMware by Broadcom
 
-**Architect / Senior Consultant | Oct 2025 – Present**
+**VCF Architect / Senior Consultant | Oct 2025 – Present**
 
 - Design, deploy, and modernize VMware Cloud Foundation environments for enterprise customers with a focus on VCF architecture, NSX networking, vSAN, resiliency, operations, and infrastructure modernization.
+
+### Merck
+
+**Senior Consultant | Feb 2026 – Present**
+
+- Provide architectural guidance and design review support for a multi-datacenter VMware Cloud Foundation 9 deployment.
+- Participate in planning, design, and governance discussions supporting management domain, NSX, vSAN, and disaster recovery initiatives.
+- Collaborate with customer architects and global engineering teams to evaluate design decisions, deployment approaches, and operational readiness.
+- Support resolution of deployment challenges and provide VMware best-practice recommendations during implementation activities.
+- Engage with teams in all 3 global regions (AMER, EMEA, APAC) to align architecture, deployment planning, and operational objectives.
+
+### Archer Daniels Midland (ADM)
+
+**VCF Operations Consultant | Jul 2026 – Sep 2026**
+
+- Designed custom VCF Operations dashboards and reports focused on capacity management, infrastructure efficiency, lifecycle readiness, and operational risk visibility.
+- Authored customer-facing operational documentation and dashboard reference guides to support platform operations teams.
+- Provided architectural guidance and operational recommendations based on VMware Health & Security Toolkit (vHST) assessments and best practices.
+- Supported VCF Operations 9.1 operational adoption, reporting, role-based access design, and dashboard automation initiatives.
+
+### Emblem Health
+
+**VCF Architect | Apr 2026 – Sep 2026**
+
+- Performed architectural review and assessment of an existing VMware Cloud Foundation 5 deployment.
+- Provided VMware best-practice guidance and recommendations for platform modernization and lifecycle management.
+- Evaluated upgrade strategies and architectural considerations for migration from VCF 5 to VCF 9.x.
+- Reviewed design decisions involving NSX, vSAN, management domains, workload domains, and operational services.
+- Advised customer stakeholders on roadmap planning, resiliency, security, and future-state cloud architecture.
 
 ### National Grid
 
@@ -119,49 +148,21 @@ Strong background supporting federal government and enterprise organizations thr
 - Designed vSAN ESA storage architecture and lifecycle management processes for isolated operational environments.
 - Served as primary technical advisor for customer architects, network engineers, security teams, and VMware field architects.
 
-### Merck
-
-**Senior Consultant | Feb 2026 – Present**
- 
-- Provide architectural guidance and design review support for a multi-datacenter VMware Cloud Foundation 9 deployment.
-- Participate in planning, design, and governance discussions supporting management domain, NSX, vSAN, and disaster recovery initiatives.
-- Collaborate with customer architects and global engineering teams to evaluate design decisions, deployment approaches, and operational readiness.
-- Support resolution of deployment challenges and provide VMware best-practice recommendations during implementation activities.
-- Engage with teams in all 3 global regions (AMER, EMEA, APAC) to align architecture, deployment planning, and operational objectives.
-
-### Emblem Health
-
-**VCF Architect | Apr 2026 - Sep 2026**
-
-- Performed architectural review and assessment of an existing VMware Cloud Foundation 5 deployment.
-- Provided VMware best-practice guidance and recommendations for platform modernization and lifecycle management.
-- Evaluated upgrade strategies and architectural considerations for migration from VCF 5 to VCF 9.x.
-- Reviewed design decisions involving NSX, vSAN, management domains, workload domains, and operational services.
-- Advised customer stakeholders on roadmap planning, resiliency, security, and future-state cloud architecture.
-
-### Archer-Danials-Midland
-
-**VCF Operations Consultant | Jul 2026 - Sep 2026
-
-- Designed custom VCF Operations dashboards and reports focused on capacity management, infrastructure efficiency, lifecycle readiness, and operational risk visibility.
-- Authored customer-facing operational documentation and dashboard reference guides to support platform operations teams.
-- Provided architectural guidance and operational recommendations based on VMware Health & Security Toolkit (vHST) assessments and best practices.
-- Supported VCF Operations 9.1 operational adoption, reporting, role-based access design, and dashboard automation initiatives.
-
 ---
 
-## Internal Revenue Service (IRS)
-### Enterprise Architect | Nov 2023 – Mar 2025
+### Internal Revenue Service (IRS)
 
-- Served as senior technical advisor to executive leadership within Enterprise Virtualization Branch.
-- Led enterprise initiatives supporting infrastructure modernization, managed service transitions, compliance, and operational governance.
-- Directed IPv6 adoption programs across multiple operating system platforms.
-- Led remediation efforts addressing federal audit findings and infrastructure isolation requirements.
-- Guided migration of Threat Simulation Environment to VMware Cloud Foundation utilizing NSX-T.
-- Championed NSX adoption for Zero Trust initiatives, application micro-segmentation, and server isolation.
-- Conducted architecture reviews, health assessments, and security hardening activities aligned with NIST, FISMA, CISA, STIG, and MITRE ATT&CK frameworks.
+**Enterprise Architect | Nov 2023 – Mar 2025**
 
-### Virtualization Engineer | Jan 2018 – Nov 2023
+- Served as senior technical advisor to executive leadership within the Enterprise Virtualization Branch.
+- Collaborated with VMware architects and IRS leadership to align enterprise virtualization initiatives with modernization, compliance, and operational objectives.
+- Directed IPv6 adoption initiatives across multiple operating system platforms and enterprise infrastructure services.
+- Led remediation efforts addressing federal audit findings, infrastructure isolation requirements, and enterprise security initiatives.
+- Guided migration of the Threat Simulation Environment to VMware Cloud Foundation utilizing NSX-T.
+- Championed NSX adoption for Zero Trust architecture, application micro-segmentation, and server isolation strategies.
+- Performed architecture reviews, platform health assessments, and security hardening activities aligned with NIST, FISMA, CISA, STIG, and MITRE ATT&CK frameworks.
+
+**Virtualization Engineer | Jan 2018 – Nov 2023**
 
 - Designed and deployed VMware Cloud Foundation environments on Dell VxRail and HPE infrastructure.
 - Managed and supported more than 500 vSAN nodes across lab and production environments.
@@ -171,7 +172,7 @@ Strong background supporting federal government and enterprise organizations thr
 - Led enterprise certificate modernization and PKI integration efforts across SDDC Manager, vCenter, ESXi, and NSX.
 - Developed RBAC and Identity & Access Management standards for enterprise virtualization platforms.
 
-### Windows System Admminstrator | Jul 2012 – Jan 2018
+**Windows System Administrator | Jul 2012 – Jan 2018**
 
 - Deployed and supported over 600 Windows Server and Microsoft SQL systems hosted on VMware infrastructure.
 - Managed Active Directory, Group Policy, PowerShell automation, and SQL administration activities.
@@ -184,5 +185,4 @@ Strong background supporting federal government and enterprise organizations thr
 
 ### Augsburg College
 
-**B.A. Management Information Systems & Business Administration**  
-**2003**
+**B.A. Management Information Systems & Business Administration | 2003**
